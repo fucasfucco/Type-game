@@ -1,0 +1,13 @@
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
+  color: #FEF2BF;
+  padding: 20px;
+}
+.cor {
+  font-family: 'Press Start 2P', cursive;
+}
+.italic {
+  font-style: italic;
+  font-size: 1.5rem;
+}
